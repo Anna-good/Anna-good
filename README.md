@@ -8,10 +8,10 @@
 
 ## Стек
 
-**Frontend:** React, React Native, TypeScript, JavaScript, HTML5, CSS, Sass, MobX, Zustand, FSD, REST API
-**Тестирование и качество:** Jest (unit-тесты), SonarQube, Web Accessibility (a11y)
-**Инструменты:** Webpack, Node.js, Storybook, CI/CD, Git, GitLab
-**Процессы:** Figma, Jira, Confluence, Agile
+- **Frontend:** React, React Native, TypeScript, JavaScript, HTML5, CSS, Sass, MobX, Zustand, FSD, REST API
+- **Тестирование и качество:** Jest (unit-тесты), SonarQube, Web Accessibility (a11y)
+- **Инструменты:** Webpack, Node.js, Storybook, CI/CD, Git, GitLab
+- **Процессы:** Figma, Jira, Confluence, Agile
 
 ## Опыт
 
@@ -41,8 +41,7 @@ Frontend с нуля на React 18, интеграция с REST API и микр
 | [web-site-Python-Mommy](https://github.com/Anna-good/web-site-Python-Mommy) | Реальный сайт для стартапа без дизайнера — HTML/CSS/JS, адаптивная вёрстка |
 | [web_course_yandex](https://github.com/Anna-good/web_course_yandex) | Практические задания курса Яндекса по web-разработке |
 
-> ⚠️ Пока в публичных репозиториях нет отдельного pet-проекта на React — весь React-опыт зафиксирован в закрытых корпоративных репозиториях (Сбербанк, Netrica, Школа 21). Стоит опубликовать хотя бы один небольшой React/TS-проект, чтобы стек в резюме подтверждался кодом, который может посмотреть HR.
-
+> ⚠️ Пока в публичных репозиториях нет отдельного pet-проекта на React — весь React-опыт зафиксирован в закрытых корпоративных репозиториях (Сбербанк, Netrica, Школа 21).
 <details>
 <summary>🌌 Universe — остальные проекты (не frontend)</summary>
 
